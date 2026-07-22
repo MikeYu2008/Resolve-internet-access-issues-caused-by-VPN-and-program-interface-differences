@@ -1,0 +1,2 @@
+# Resolve-internet-access-issues-caused-by-VPN-and-program-interface-differences
+Some people may find this issue: when updated your VPN to the latest version, you cannot have access to the network. This is due to the difference in api(s) between the webpage/VPN. Now, this repository provides a concrete solution. I've successfully using the methods and common lines listed here to save my VPN and network access back.  
